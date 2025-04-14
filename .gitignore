@@ -1,6 +1,7 @@
-target/
+ittarget/
 .idea/
 *.iml
 *.class
 *.jar
 *.war
+.vscode/
